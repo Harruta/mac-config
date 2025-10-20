@@ -4,6 +4,5 @@
 clone the reop and run 
 ````
 
-```
 brew bundle install --file=~/.config/Brewfile
-```
+
