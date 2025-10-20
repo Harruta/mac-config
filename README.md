@@ -1,8 +1,13 @@
 ![alt text](image.png)
 ![alt text](G3rmUfMWIAAoif6.jpeg)
 
-clone the reop and run 
+1.clone the repo
+
+2.create a .config folder in you home directory 
+
+3.copy the files
+
+4.and run 
 ````
 
 brew bundle install --file=~/.config/Brewfile
-
