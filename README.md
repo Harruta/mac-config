@@ -3,7 +3,7 @@
 
 1.clone the repo
 
-2.create a .config folder in you home directory 
+2.create a .config folder in your home directory 
 
 3.copy the files
 
